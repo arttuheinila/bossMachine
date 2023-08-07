@@ -4,7 +4,7 @@
 
 The code is an API to serve infromation to a Boss Machine, a unique management application for today's most accomplished (evil) entrepreneurs. Routes help manage 'minions', brilliant 'million dollar ideas', and handling all the annoying meetings that keep getting added to your busy schedule.
 
-Thanks for the project idea and visual design for Codecademy
+This is a codecademy practice program for back-end app with Javascript. Props for visual design and ideas for Codecademy. 
 
 ## REQUIREMENTS
 
